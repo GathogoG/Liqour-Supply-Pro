@@ -144,6 +144,9 @@ Delete a supplier from the system.
 ```bash
 python cli.py suppliers delete
 Supplier ID: 1
+
+THE LINK TO THE VIDEO
+https://screenapp.io/app/#/shared/7ac0daf7-3d29-4403-bc3c-84ebb1e4dc7c
 ```
 
 
