@@ -4,11 +4,11 @@ Liquor Store Pro is a command-line interface (CLI) application designed to strea
 
 ---
 
-## Features
+# Features
 
-### Inventory Management
+## Inventory Management
 
-#### Add Items
+### Add Items
 
 Add new items to the inventory with details such as name, price, and supplier.
 
